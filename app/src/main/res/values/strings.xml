@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RuntimePermission-Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="open_dialer">Open Dialer</string>
+    <string name="hint_text">Click on any button for Runtime Permission Rationale in Marshmallow Devices only.</string>
+</resources>
